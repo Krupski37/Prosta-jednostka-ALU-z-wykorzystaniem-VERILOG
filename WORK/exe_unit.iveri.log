@@ -1,0 +1,13 @@
+../MODEL/gray_coder.sv:8: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+../MODEL/exe_unit.sv:50: warning: Port 2 (i_poly) of crc_coder expects 9 bits, got 5.
+../MODEL/exe_unit.sv:50:        : Padding 4 high bits of the port.
+../MODEL/exe_unit.sv:50: warning: Port 3 (i_crc) of crc_coder expects 8 bits, got 4.
+../MODEL/exe_unit.sv:50:        : Padding 4 high bits of the port.
+../MODEL/exe_unit.sv:54: warning: Port 2 (i_poly) of crc_eval expects 8 bits, got 4.
+../MODEL/exe_unit.sv:54:        : Padding 4 high bits of the port.
+../MODEL/exe_unit.sv:54: warning: Port 3 (i_crc) of crc_eval expects 7 bits, got 3.
+../MODEL/exe_unit.sv:54:        : Padding 4 high bits of the port.
+../MODEL/sm_to_u2.sv:11: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+../MODEL/adder.sv:10: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+../MODEL/adder.sv:10: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
+../MODEL/adder.sv:10: sorry: constant selects in always_* processes are not currently supported (all bits will be included).
